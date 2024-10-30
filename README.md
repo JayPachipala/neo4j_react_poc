@@ -1,6 +1,6 @@
-# neo4j_react_poc
+# AI Search 
 
-# Neo4j Query Interface
+# AI Search App
 
 A web application that allows users to query a Neo4j graph database using natural language. The application uses FastAPI for the backend and React for the frontend, along with LLaMA to generate Cypher queries.
 
